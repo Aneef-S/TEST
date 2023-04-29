@@ -4,6 +4,6 @@ int main()
 {
     for(int i=0;i<12;i++)
     {
-        printf(" 10 ");
+        printf(" 11 ");
     }
 }
